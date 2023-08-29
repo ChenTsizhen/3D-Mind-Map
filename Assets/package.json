@@ -1,0 +1,29 @@
+{
+	"name": "xrc.students.su2023.in03.chen",
+	"version": "0.1.0",
+	"displayName": "XRC Students su2023-in03-chen",
+	"description": "3D interaction package for graph traversal",
+	"unity": "2022.3",
+	"unityRelease": "4f1",
+	"documentationUrl": "https://xrc-students.github.io/xrc-students-su2023-in03-chen/",
+	"changelogUrl": "https://xrc-students.github.io/xrc-students-su2023-in03-chen/changelog/CHANGELOG.html",
+	"licensesUrl": "https://xrc-students.github.io/xrc-students-su2023-in03-chen/license/LICENSE.html",
+	"dependencies": {
+		
+	},
+	"keywords": [
+		"XRC",
+		"XR Collaboratory"
+	],
+	"author": {
+		"name": "XR Collaboratory"
+	},
+
+	"samples": [
+		{
+			"displayName": "MindMapSample",
+			"description": "Application includes post-it notes organization during Brainstroming, Mind Mapping, and Grouping categories etc.",
+			"path": "Samples~/MindMapSample"
+		}
+	]
+}
